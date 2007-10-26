@@ -1,0 +1,9 @@
+#summary Status updates on development.
+#labels status,updates
+
+= Details =
+
+- Friday, October 26, 2007
+  * GUI is ready, need some more testing
+  * Hopefully by next week, I'll upload it.
+ 
