@@ -5,5 +5,7 @@
 
 - Friday, October 26, 2007
   * GUI is ready, need some more testing
-  * Hopefully by next week, I'll upload it.
- 
+
+- Oct 28, 2007
+  * Checking dependencies & license issues (for redistribution)
+  * Testing more files
