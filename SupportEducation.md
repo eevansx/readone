@@ -1,0 +1,5 @@
+**Support education for underprivileged** :
+  * If you would like to thank or contribute, you can make a donation that will go towards supporting education for underprivileged children.
+  * More details to follow. Suggestions are welcome.
+
+**[Make a contribution](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=simplazing%40gmail%2ecom&item_name=readone&no_shipping=0&no_note=1&tax=0&currency_code=USD&lc=US&bn=PP%2dDonationsBF&charset=UTF%2d8)**

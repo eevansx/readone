@@ -1,0 +1,8 @@
+# Details #
+
+- Friday, October 26, 2007
+  * GUI is ready, need some more testing
+
+- Oct 28, 2007
+  * Checking dependencies & license issues (for redistribution)
+  * Testing more files
